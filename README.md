@@ -21,4 +21,4 @@ pip install python-nmap
 
 // Run The Script
 
-python Port__scan_Nmap.py
+python Port_scan_Nmap.py

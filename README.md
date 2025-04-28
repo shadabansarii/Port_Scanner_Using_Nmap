@@ -16,6 +16,16 @@ A simple Python-based network pentesting tool that automates network scanning us
 
 ### 1. Install Dependencies  
 Ensure you have Python and Nmap installed.  
+
+
+output sample :-
+
+![image](https://github.com/user-attachments/assets/04114956-2ad3-45eb-843a-e9b9ecae44c8)
+
+
+
+
+
 ```sh
 pip install python-nmap
 
@@ -23,5 +33,3 @@ pip install python-nmap
 
 python Port_scan_Nmap.py
 
-Output Sample:-
-![image](https://github.com/user-attachments/assets/e8f6a73d-5c2b-4dd1-9160-4c6dd0368c6c)

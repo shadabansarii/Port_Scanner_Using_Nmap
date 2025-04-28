@@ -1,9 +1,11 @@
-# Network-Pentesting-Automation-Tool
+# Network Port Scanner
 A simple Python-based network pentesting tool that automates network scanning using Nmap.  
 
 ## Features  
-- Scans open ports and running services on target systems  
-- Uses Nmap to automate basic security checks    
+- Validate IP address and port range input.
+-Scan specific ports on a target host.
+-Show only open ports in a clean output.
+-Error handling for bad inputs and scanning issues.
 
 ## Technologies Used  
 - Python  
@@ -19,4 +21,4 @@ pip install python-nmap
 
 // Run The Script
 
-python network_scan.py
+python Port__scan_Nmap.py

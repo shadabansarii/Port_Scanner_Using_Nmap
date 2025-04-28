@@ -22,3 +22,6 @@ pip install python-nmap
 // Run The Script
 
 python Port_scan_Nmap.py
+
+Output Sample:-
+![image](https://github.com/user-attachments/assets/e8f6a73d-5c2b-4dd1-9160-4c6dd0368c6c)
